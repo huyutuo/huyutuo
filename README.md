@@ -1,7 +1,7 @@
 ### Hi huyutuo there 👋
 - 🔭 I’m currently working hard ...
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=huyutuo&theme=solarized-light) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huyutuo)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=huyutuo&theme=solarized-light)
 
 <!--
 **huyutuo/huyutuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
